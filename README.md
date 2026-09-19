@@ -1,16 +1,15 @@
-## Hi there 👋
+FarshadDev
 
-<!--
-**feeridev/feeridev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer | Linux, Servers & Networking
 
-Here are some ideas to get you started:
+I build web applications with the MERN stack and enjoy working with Linux, servers, and networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I work with
+🌐 Full-Stack Web Development — MERN Stack
+🐧 Linux — Linux Mint
+🌐 Networking & network infrastructure
+🖥️ Servers & Virtualization — Windows Server & Linux
+
+Currently Working as an IT Generalist, building projects, learning new technologies, and documenting what I build.
+
+FarshadDev
