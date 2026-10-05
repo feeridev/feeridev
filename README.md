@@ -1,4 +1,4 @@
-FarshadDev
+FeeriDev
 
 Full-Stack Web Developer | Linux, Servers & Networking
 
@@ -7,7 +7,7 @@ What I work with :
 🐧 Linux — Linux Mint
 🌐 Networking & network infrastructure
 🖥️ Servers & Virtualization — Windows Server & Linux
-### Technologies
+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -21,4 +21,3 @@ What I work with :
 
 Currently Working as an IT Generalist, building projects, learning new technologies, and documenting what I build.
 
-FarshadDev
