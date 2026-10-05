@@ -17,6 +17,8 @@ What I work with :
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
+
+
 Currently Working as an IT Generalist, building projects, learning new technologies, and documenting what I build.
 
 FarshadDev
